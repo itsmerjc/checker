@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/stripe-serverless.js": {
+      "maxDuration": 30
+    }
+  },
+  "regions": ["sin1"]
+}
